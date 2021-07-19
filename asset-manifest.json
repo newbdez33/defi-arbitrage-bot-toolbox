@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/defi-arbitrage-bot-toobox/static/css/main.2513ec5d.chunk.css",
-    "main.js": "/defi-arbitrage-bot-toobox/static/js/main.407e0b97.chunk.js",
-    "main.js.map": "/defi-arbitrage-bot-toobox/static/js/main.407e0b97.chunk.js.map",
-    "runtime-main.js": "/defi-arbitrage-bot-toobox/static/js/runtime-main.8def7abc.js",
-    "runtime-main.js.map": "/defi-arbitrage-bot-toobox/static/js/runtime-main.8def7abc.js.map",
-    "static/js/2.67abadbe.chunk.js": "/defi-arbitrage-bot-toobox/static/js/2.67abadbe.chunk.js",
-    "static/js/2.67abadbe.chunk.js.map": "/defi-arbitrage-bot-toobox/static/js/2.67abadbe.chunk.js.map",
-    "static/js/3.95cc930c.chunk.js": "/defi-arbitrage-bot-toobox/static/js/3.95cc930c.chunk.js",
-    "static/js/3.95cc930c.chunk.js.map": "/defi-arbitrage-bot-toobox/static/js/3.95cc930c.chunk.js.map",
-    "index.html": "/defi-arbitrage-bot-toobox/index.html",
-    "static/css/main.2513ec5d.chunk.css.map": "/defi-arbitrage-bot-toobox/static/css/main.2513ec5d.chunk.css.map",
-    "static/js/2.67abadbe.chunk.js.LICENSE.txt": "/defi-arbitrage-bot-toobox/static/js/2.67abadbe.chunk.js.LICENSE.txt"
+    "main.css": "/defi-arbitrage-bot-toolbox/static/css/main.2513ec5d.chunk.css",
+    "main.js": "/defi-arbitrage-bot-toolbox/static/js/main.699d4db3.chunk.js",
+    "main.js.map": "/defi-arbitrage-bot-toolbox/static/js/main.699d4db3.chunk.js.map",
+    "runtime-main.js": "/defi-arbitrage-bot-toolbox/static/js/runtime-main.68146131.js",
+    "runtime-main.js.map": "/defi-arbitrage-bot-toolbox/static/js/runtime-main.68146131.js.map",
+    "static/js/2.7ec565f8.chunk.js": "/defi-arbitrage-bot-toolbox/static/js/2.7ec565f8.chunk.js",
+    "static/js/2.7ec565f8.chunk.js.map": "/defi-arbitrage-bot-toolbox/static/js/2.7ec565f8.chunk.js.map",
+    "static/js/3.95cc930c.chunk.js": "/defi-arbitrage-bot-toolbox/static/js/3.95cc930c.chunk.js",
+    "static/js/3.95cc930c.chunk.js.map": "/defi-arbitrage-bot-toolbox/static/js/3.95cc930c.chunk.js.map",
+    "index.html": "/defi-arbitrage-bot-toolbox/index.html",
+    "static/css/main.2513ec5d.chunk.css.map": "/defi-arbitrage-bot-toolbox/static/css/main.2513ec5d.chunk.css.map",
+    "static/js/2.7ec565f8.chunk.js.LICENSE.txt": "/defi-arbitrage-bot-toolbox/static/js/2.7ec565f8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8def7abc.js",
-    "static/js/2.67abadbe.chunk.js",
+    "static/js/runtime-main.68146131.js",
+    "static/js/2.7ec565f8.chunk.js",
     "static/css/main.2513ec5d.chunk.css",
-    "static/js/main.407e0b97.chunk.js"
+    "static/js/main.699d4db3.chunk.js"
   ]
 }
