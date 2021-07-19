@@ -2,4 +2,4 @@
 
 ## Introduction
 
-TODO, but you can visit the deployed app, at <https://newbdez33.github.io/defi-arbitrage-bot-toobox/>
+TODO, but you can visit the deployed app, at <https://newbdez33.github.io/defi-arbitrage-bot-toolbox/>
