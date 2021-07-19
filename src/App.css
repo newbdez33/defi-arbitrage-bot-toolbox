@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+#link {
+  border: none;
+  cursor: 'pointer';
+  background: none;
+  text-align: left;
+  color: blue;
+  text-decoration: underline;
+}
